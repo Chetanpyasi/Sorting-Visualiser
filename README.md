@@ -34,7 +34,7 @@ To use this project, ensure you have the following installed:
 2. **Clone the Repository**:
 
    ```bash
-   git clone [<repository_url>](https://github.com/Chetanpyasi/Sorting-Visualiser)
+   git clone https://github.com/Chetanpyasi/Sorting-Visualiser
    cd Sorting_Visualizer
    ```
 
