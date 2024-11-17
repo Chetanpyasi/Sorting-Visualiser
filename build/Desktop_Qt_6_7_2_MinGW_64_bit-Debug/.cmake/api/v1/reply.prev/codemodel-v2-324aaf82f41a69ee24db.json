@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e66e479cc108c9010a22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "visualiser",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "visualiser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-visualiser-Debug-b35d82470197fd97de44.json",
+					"name" : "visualiser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "visualiser_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-visualiser_autogen-Debug-4d4ab921b94b7ba425c4.json",
+					"name" : "visualiser_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "visualiser_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-visualiser_autogen_timestamp_deps-Debug-74b99242085592bbb819.json",
+					"name" : "visualiser_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programs/algo/visualiser/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Programs/algo/visualiser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

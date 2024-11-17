@@ -1,0 +1,24 @@
+# ninja log v6
+33	246	7535581832733101	visualiser_autogen/timestamp	85ff3c7bec3f2351
+1275	7216	7535580977239692	CMakeFiles/visualiser.dir/main.cpp.obj	fd5a5953ffdea80d
+33	246	7535581832733101	visualiser_autogen/mocs_compilation.cpp	85ff3c7bec3f2351
+1535	7578	7504624490444795	CMakeFiles/visualiser.dir/mainwindow.cpp.obj	686eb6b18918ea55
+33	246	7535581832733101	C:/Programs/algo/visualiser/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/visualiser_autogen/timestamp	85ff3c7bec3f2351
+33	246	7535581832733101	C:/Programs/algo/visualiser/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/visualiser_autogen/mocs_compilation.cpp	85ff3c7bec3f2351
+1272	7115	7535580977209773	CMakeFiles/visualiser.dir/visualiser_autogen/mocs_compilation.cpp.obj	ed8b0a7305b36ad5
+247	8142	7535581834967479	CMakeFiles/visualiser.dir/sortingvisualizer.cpp.obj	4ee4a4cf66956a5f
+8142	9002	7535581913916526	visualiser.exe	1eeaefb327015a28
+30	1292	7535582456341902	visualiser_autogen/timestamp	85ff3c7bec3f2351
+30	1292	7535582456341902	visualiser_autogen/mocs_compilation.cpp	85ff3c7bec3f2351
+30	1292	7535582456341902	C:/Programs/algo/visualiser/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/visualiser_autogen/timestamp	85ff3c7bec3f2351
+30	1292	7535582456341902	C:/Programs/algo/visualiser/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/visualiser_autogen/mocs_compilation.cpp	85ff3c7bec3f2351
+1294	6861	7535582457595850	CMakeFiles/visualiser.dir/visualiser_autogen/mocs_compilation.cpp.obj	ed8b0a7305b36ad5
+1297	6871	7535582457625757	CMakeFiles/visualiser.dir/main.cpp.obj	fd5a5953ffdea80d
+1299	9204	7535582457647396	CMakeFiles/visualiser.dir/sortingvisualizer.cpp.obj	4ee4a4cf66956a5f
+9204	10050	7535582536699593	visualiser.exe	1eeaefb327015a28
+30	239	7535582982791400	visualiser_autogen/timestamp	85ff3c7bec3f2351
+30	239	7535582982791400	visualiser_autogen/mocs_compilation.cpp	85ff3c7bec3f2351
+30	239	7535582982791400	C:/Programs/algo/visualiser/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/visualiser_autogen/timestamp	85ff3c7bec3f2351
+30	239	7535582982791400	C:/Programs/algo/visualiser/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/visualiser_autogen/mocs_compilation.cpp	85ff3c7bec3f2351
+240	8013	7535582984990598	CMakeFiles/visualiser.dir/sortingvisualizer.cpp.obj	4ee4a4cf66956a5f
+8013	8760	7535583062715876	visualiser.exe	1eeaefb327015a28
